@@ -6,4 +6,7 @@ Section: A
 Branch: Computer Engineering
 Year of Admission: 2023
 College Name: GITW
+SSLC: Nightingales English High School
+PUC: RCpu College
+UG Degree: B.E-Computer Science Engineering
 
